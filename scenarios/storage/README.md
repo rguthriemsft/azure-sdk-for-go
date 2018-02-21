@@ -1,38 +1,11 @@
-# Microsoft Storage Account
+# MGMT Perform basic storage mgmt ops
 
-## Create Storage Account
-- Status:
+# DATA - Perform basic storage operations for Blob
 
-# Container Storage
+#TODO - need to refine queue scenarios
+# DATA - Perform basic storage operations (send/recieve) for Queue
 
-## Create a Container
-- Status:
+# DATA - Perform basic storage operations for Table
 
-## Get SAS Key for a Container
-- Status:
+# DATA - Encrypt/Decrypt blob/ table/ queue data using Storage Service Encryption
 
-# Blob Storage
-
-## Upload a Blob to Storage
-- Status:
-
-## Download a Blog from Storage
-- Status:
-
-# Table Storage
-
-## Create a Table
-- Status:
-
-## CRUD for the Table
-- Status:
-
-# SQL
-
-# Queue Storage
-
-## Create a Queue
-- Status:
-
-## Publish to a Queue
-- Status:
