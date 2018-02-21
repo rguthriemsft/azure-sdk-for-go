@@ -27,6 +27,8 @@
 ## CRUD for the Table
 - Status:
 
+# SQL
+
 # Queue Storage
 
 ## Create a Queue
